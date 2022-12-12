@@ -19,3 +19,8 @@ button {
 #menu a {
     color: #3f3f3f;
 }
+
+#cards{
+    max-height: 40rem !important;
+    margin-bottom: 20px;
+}
